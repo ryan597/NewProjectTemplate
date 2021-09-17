@@ -1,6 +1,8 @@
+This is my personal template for starting new projects. I am still developing its style.
+
 # PROJECTNAME
 
-Repository for code to reproduce the results of the pre-print PROJECTNAME.
+Repository for code to reproduce the results of PROJECTNAME.
 
 ---
 
